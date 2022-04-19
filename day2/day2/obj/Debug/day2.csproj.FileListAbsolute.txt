@@ -1,0 +1,8 @@
+C:\dotnet training\day2\day2\bin\Debug\day2.exe.config
+C:\dotnet training\day2\day2\bin\Debug\day2.exe
+C:\dotnet training\day2\day2\bin\Debug\day2.pdb
+C:\dotnet training\day2\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+C:\dotnet training\day2\day2\obj\Debug\day2.csproj.SuggestedBindingRedirects.cache
+C:\dotnet training\day2\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+C:\dotnet training\day2\day2\obj\Debug\day2.exe
+C:\dotnet training\day2\day2\obj\Debug\day2.pdb
