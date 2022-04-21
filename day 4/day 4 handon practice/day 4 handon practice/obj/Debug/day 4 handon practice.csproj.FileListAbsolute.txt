@@ -1,0 +1,8 @@
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\bin\Debug\day 4 handon practice.exe.config
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\bin\Debug\day 4 handon practice.exe
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\bin\Debug\day 4 handon practice.pdb
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\obj\Debug\day 4 handon practice.csproj.AssemblyReference.cache
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\obj\Debug\day 4 handon practice.csproj.SuggestedBindingRedirects.cache
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\obj\Debug\day 4 handon practice.csproj.CoreCompileInputs.cache
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\obj\Debug\day 4 handon practice.exe
+C:\dotnet training\day 4\day 4 handon practice\day 4 handon practice\obj\Debug\day 4 handon practice.pdb
