@@ -1,0 +1,7 @@
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\bin\Debug\AbstractFactorypattern.exe.config
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\bin\Debug\AbstractFactorypattern.exe
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\bin\Debug\AbstractFactorypattern.pdb
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\obj\Debug\AbstractFactorypattern.csproj.AssemblyReference.cache
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\obj\Debug\AbstractFactorypattern.csproj.CoreCompileInputs.cache
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\obj\Debug\AbstractFactorypattern.exe
+C:\dotnet training\day16\AbstractFactorypattern\AbstractFactorypattern\obj\Debug\AbstractFactorypattern.pdb

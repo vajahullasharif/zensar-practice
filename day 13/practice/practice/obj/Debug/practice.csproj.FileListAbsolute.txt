@@ -1,0 +1,7 @@
+C:\dotnet training\day 13\practice\practice\bin\Debug\practice.exe.config
+C:\dotnet training\day 13\practice\practice\bin\Debug\practice.exe
+C:\dotnet training\day 13\practice\practice\bin\Debug\practice.pdb
+C:\dotnet training\day 13\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+C:\dotnet training\day 13\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\dotnet training\day 13\practice\practice\obj\Debug\practice.exe
+C:\dotnet training\day 13\practice\practice\obj\Debug\practice.pdb

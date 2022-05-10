@@ -1,0 +1,7 @@
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\bin\Debug\Indexers practice program.exe.config
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\bin\Debug\Indexers practice program.exe
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\bin\Debug\Indexers practice program.pdb
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\obj\Debug\Indexers practice program.csproj.AssemblyReference.cache
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\obj\Debug\Indexers practice program.csproj.CoreCompileInputs.cache
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\obj\Debug\Indexers practice program.exe
+C:\dotnet training\day 8\Indexers practice program\Indexers practice program\obj\Debug\Indexers practice program.pdb
